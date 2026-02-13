@@ -8,7 +8,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 Colab Software
 
 Personal Laptop
-# Flat-Top Sampling
+# a.Flat-Top Sampling
 # Program
 ```
 import numpy as np
@@ -85,7 +85,7 @@ plt.show()
 
 Thus, the colab program for flat-top sampling is executed successfully.
 
-# Impulse Sampling
+# b.Impulse Sampling
 # Program
 ```
 import numpy as np
@@ -136,7 +136,7 @@ plt.show()
 
 Thus, the colab program for impulse sampling is executed successfully.
 
-# Natural Sampling:
+# c.Natural Sampling:
 
 # Program:
 ```
